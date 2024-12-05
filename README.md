@@ -16,7 +16,7 @@
 ## Ekibimiz
 
 -  **Danışman:**  
-[https://github.com/keyvanarasteh](Keyvan Arasteh)
+- Keyvan Arasteh [GitHub](https://github.com/keyvanarasteh)
 
 
 -  **Takım Üyeleri:**
